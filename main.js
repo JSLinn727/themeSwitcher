@@ -29,6 +29,3 @@ function metalTheme() {
   console.log('metalLog')
 }
 metalButton.addEventListener('click', metalTheme)
-
-// document.querySelector('h1').textContent = ' '
-// document.querySelector('p').textContent = ' '

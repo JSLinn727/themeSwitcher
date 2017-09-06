@@ -1,9 +1,4 @@
-/****************************************/
-
-/**** Generic Styles ********************/
-
-/****************************************/
-
+/* Generic Styles */
 html {
   height: 100%;
 }
@@ -52,15 +47,10 @@ h1 {
   line-height: 1.2em;
 }
 
-/****************************************/
-
-/**** Kittens Theme *********************/
-
-/****************************************/
-
+/* Kittens Theme */
 #kittens {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
-  background-image: url("img/kittens/bg.jpg");
+  font-family: 'Comic Sans MS', 'Comic Sans', cursive;
+  background-image: url('img/kittens/bg.jpg');
   background-size: 100px auto;
   background-position: center center;
 }
@@ -71,14 +61,9 @@ h1 {
   border-radius: 20px;
 }
 
-/****************************************/
-
-/**** Neo Tokyo Theme *******************/
-
-/****************************************/
-
+/*Neo Tokyo Theme */
 #tokyo {
-  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+  font-family: 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
   background: linear-gradient(135deg, #5db7fc 0%, #ff5db1 25%, #ff9502 50%, #afff02 75%, #5db7fc 100%);
   background-repeat: no-repeat;
   background-size: auto 100%;
@@ -96,21 +81,16 @@ h1 {
   color: white;
 }
 
-/****************************************/
-
-/**** Heavy Metal Theme *****************/
-
-/****************************************/
-
+/* Heavy Metal Theme */
 #metal {
-  font-family: "Copperplate", sans-serif;
-  background-image: url("img/metal/bg.jpg");
+  font-family: 'Copperplate', sans-serif;
+  background-image: url('img/metal/bg.jpg');
   background-size: 600px auto;
   background-position: center center;
 }
 
 #metal .wrapper {
-  background-image: url("img/metal/bg2.jpg");
+  background-image: url('img/metal/bg2.jpg');
   box-shadow: 0 15px 25px rgba(0, 0, 0, 0.5);
   background-size: 600px auto;
   background-position: center center;
